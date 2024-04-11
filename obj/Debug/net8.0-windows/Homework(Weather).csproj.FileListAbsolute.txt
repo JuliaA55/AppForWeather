@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Http_Protocol\Homework(Weather)\bin\Debug\net8.0-windows\Homework(Weather).exe
+C:\Users\User\source\repos\Http_Protocol\Homework(Weather)\bin\Debug\net8.0-windows\Homework(Weather).deps.json
+C:\Users\User\source\repos\Http_Protocol\Homework(Weather)\bin\Debug\net8.0-windows\Homework(Weather).runtimeconfig.json
+C:\Users\User\source\repos\Http_Protocol\Homework(Weather)\bin\Debug\net8.0-windows\Homework(Weather).dll
+C:\Users\User\source\repos\Http_Protocol\Homework(Weather)\bin\Debug\net8.0-windows\Homework(Weather).pdb
+C:\Users\User\source\repos\Http_Protocol\Homework(Weather)\obj\Debug\net8.0-windows\Homework_Weather_.Form1.resources
+C:\Users\User\source\repos\Http_Protocol\Homework(Weather)\obj\Debug\net8.0-windows\Homework(Weather).csproj.GenerateResource.cache
+C:\Users\User\source\repos\Http_Protocol\Homework(Weather)\obj\Debug\net8.0-windows\Homework(Weather).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Http_Protocol\Homework(Weather)\obj\Debug\net8.0-windows\Homework(Weather).AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Http_Protocol\Homework(Weather)\obj\Debug\net8.0-windows\Homework(Weather).AssemblyInfo.cs
+C:\Users\User\source\repos\Http_Protocol\Homework(Weather)\obj\Debug\net8.0-windows\Homework(Weather).csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Http_Protocol\Homework(Weather)\obj\Debug\net8.0-windows\Homework(Weather).dll
+C:\Users\User\source\repos\Http_Protocol\Homework(Weather)\obj\Debug\net8.0-windows\refint\Homework(Weather).dll
+C:\Users\User\source\repos\Http_Protocol\Homework(Weather)\obj\Debug\net8.0-windows\Homework(Weather).pdb
+C:\Users\User\source\repos\Http_Protocol\Homework(Weather)\obj\Debug\net8.0-windows\Homework(Weather).genruntimeconfig.cache
+C:\Users\User\source\repos\Http_Protocol\Homework(Weather)\obj\Debug\net8.0-windows\ref\Homework(Weather).dll
